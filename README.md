@@ -58,7 +58,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 ### ❤️ Obrigada por ler até aqui!
-<!--![Snake animation](https://github.com/LauraLuana1/LauraLuana1/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LauraLuana1/LauraLuana1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LauraLuana1/LauraLuana1/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LauraLuana1/LauraLuana1/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 [![](https://visitcountpro.netlify.app/api?id=LauraLuana1&pretty=true)](https://visitcount.itsvg.in)
 
