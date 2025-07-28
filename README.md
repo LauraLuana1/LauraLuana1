@@ -58,10 +58,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 ### ❤️ Obrigada por ler até aqui!
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+<!--![Snake animation](https://github.com/LauraLuana1/LauraLuana1/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=LauraLuana1&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
